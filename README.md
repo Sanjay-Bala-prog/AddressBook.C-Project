@@ -1,4 +1,4 @@
-                                                                            Address Book in C
+                                                        Address Book in C
 
 A simple command-line **Address Book application** written in C. This project allows users to add, Edit, List, search, and delete
 contacts using file handling and structures. It’s a great hands-on project for beginners to learn about **C programming**, **file operations**, and **struct-based data management**.
